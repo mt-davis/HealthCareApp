@@ -200,4 +200,4 @@ These insights can help healthcare providers make data-driven decisions to impro
 
 # Add footer
 st.markdown("---")
-st.markdown("Healthcare Data Analytics Dashboard | Created my M.T Davis")
+st.markdown("Healthcare Data Analytics Dashboard | Created by M.T Davis")
